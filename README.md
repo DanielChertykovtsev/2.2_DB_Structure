@@ -1,2 +1,2 @@
 # 2.2_DB_Structure
-Initiation Script and PUML structure for library DB tables 
+Initiation Script (init.sql) and PUML structure (script and image) for library DB tables 
